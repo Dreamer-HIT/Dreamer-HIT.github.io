@@ -894,7 +894,7 @@ function createtime1() {
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到Kyle's Blog!`,
+    `欢迎来到Dreamer's Blog!`,
     `
 
     ██████╗██╗   ██╗██████╗  ██████╗ ██████╗  ██████╗ ██████╗  ██████╗ ███████╗███████╗
@@ -908,7 +908,7 @@ function createtime1() {
     "小站已经运行",
     dnum,
     "天啦!",
-    "©2021 By Kyle",
+    "©2021 By Dreamer",
   ];
 
   setTimeout(
